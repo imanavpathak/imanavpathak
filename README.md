@@ -150,7 +150,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 
 
-## 🖥 My Contact Information
+## 🖥 My Contact Information 
 
 &emsp;&emsp; 📫 __Email:__  __Manavpathak13@gmail.com__
 
