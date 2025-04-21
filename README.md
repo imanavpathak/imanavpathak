@@ -174,9 +174,3 @@ These are some of my __projects__, __blogs__ and __certifications__ that I have 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
 
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif" width = "750" />
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imanavpathak/imanavpathak/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
