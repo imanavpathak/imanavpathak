@@ -135,7 +135,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 ## 💼🎒 My Portfolio Overview:
 
-I encourage you to explore my machine learning and deep learning projects. The links are provided below, along with detailed descriptions at the bottom of this website. 
+<p align="center" 🚧 "My portfolio is under construction... just like my life." </p>
 
 <img src = "https://github.com/imanavpathak/itzManav07/blob/main/Simple%20Black%20and%20White%20Text%20Instagram%20Post.gif">
 
