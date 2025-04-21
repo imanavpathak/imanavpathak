@@ -1,7 +1,7 @@
    <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Manav Pathak 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suhas-maddali/"> 
+  <a href="https://in.linkedin.com/in/manav-pathak/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/imanavpathak/">
@@ -154,7 +154,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 &emsp;&emsp; 📫 __Email:__  __Manavpathak13@gmail.com__
 
-&emsp;&emsp; 🖇 __LinkedIn:__ __https://www.linkedin.com/in/suhas-maddali/__
+&emsp;&emsp; 🖇 __LinkedIn:__ __https://in.linkedin.com/in/manav-pathak/__
 
 &emsp;&emsp; ✍🏻 __Medium:__ __https://medium.com/@imanavpathak__
 
