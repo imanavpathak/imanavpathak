@@ -175,36 +175,3 @@ Below are some of the ways we might connect. Feel free to share your thoughts. T
 
 
 
-<!-- BACKGROUND + STYLE -->
-<div align="center" style="background: url('https://i.gifer.com/VAyR.gif') no-repeat center center fixed; background-size: cover; padding: 30px; border-radius: 20px; color: white;">
-
-<h1 style="font-size: 3.2em; color: #00fff7; text-shadow: 0 0 5px #00fff7, 0 0 15px #00fff7;">
-  <img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="70"/> Hi there, I'm <span style="color:#ff00cc;">Manav Pathak</span> 👋
-</h1>
-
-<!-- TYPEWRITER TEXT -->
-<h3>
-  <span style="color:#0ff;">Machine Learning</span> | 
-  <span style="color:#ff0;">Generative AI</span> | 
-  <span style="color:#0f0;">Data Science</span> | 
-  <span style="color:#f0f;">LLMs</span>
-</h3>
-
-<!-- BADGES -->
-<p>
-  <a href="https://in.linkedin.com/in/manav-pathak/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/imanavpathak/">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  </a>
-  <a href="https://imanavpathak.quora.com/">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />
-  </a>
-</p>
-
-<!-- MAIN GIF -->
-<img src="https://github.com/imanavpathak/imanavpathak/blob/main/Black%20and%20White%20Animated%20Black%20Friday%20Instagram%20Post.gif" width="90%"/>
-
-</div>
-
