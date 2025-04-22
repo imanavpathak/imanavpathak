@@ -17,7 +17,7 @@ I'm passionate about __Machine Learning__, __Data Science__, __Large Language Mo
 
 The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
 
- ![](https://github.com/imanavpathak/itzManav07/blob/main/Black%20and%20White%20Animated%20Black%20Friday%20Instagram%20Post.gif)
+ <img src="https://github.com/imanavpathak/imanavpathak/blob/main/Black%20and%20White%20Animated%20Black%20Friday%20Instagram%20Post.gif"/>
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
