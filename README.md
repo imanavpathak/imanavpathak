@@ -144,9 +144,7 @@ These valuable tools and techniques have empowered me to successfully develop an
 
 &emsp;&emsp; 🔗 __https://www.kaggle.com/imanavpathak
 
-## 🖥 My Resume 
 
-&emsp;&emsp; 📄 [__Data Scientist Resume__](https://github.com/suhasmaddali/Resume-/blob/main/Suhas%20Maddali%20Updated%20Resume.pdf)
 
 
 
