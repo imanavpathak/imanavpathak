@@ -1,4 +1,5 @@
    <h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi there, I'm Manav Pathak 👋</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Aayush Bharti GIF" width="28px" height="28px">
 
 <p align="center">
   <a href="https://in.linkedin.com/in/manav-pathak/"> 
