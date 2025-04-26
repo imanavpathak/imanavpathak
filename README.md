@@ -1,6 +1,12 @@
-   <h1 align = "center"><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /</h1>
-   <h1 align = "center">Hi there, I'm Manav Pathak 👋</h1>
-  <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></h1>
+   <h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80" />
+  Hi there, I'm Manav Pathak 👋
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80" />
+</h2>
+
+   
+
+  <h1 align= "center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></h1>
    
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -55,7 +61,9 @@ The rapid rate at which there is advancement in computing power and the freedom 
 🔍 Interested in Generative AI, Computer Vision, Natural Language Processing, and MLOps
 🚀 Actively working on projects involving Python, TensorFlow, PyTorch, Scikit-learn, and NLP models
 📊 Strong foundation in Data Analysis, Machine Learning, and Statistical Modelling
-
+<h4 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</h4>
 
 🛠️ Skills & Tools
     Languages: Python, SQL, JavaScript
@@ -199,8 +207,12 @@ My interest in machine learning and artificial intelligence began when I was in 
 These are some of my __projects__, __blogs__ and __certifications__ that I have worked on and uploaded on __GitHub__. I would be looking forward to learning new technologies in the field of __AI__ and __machine learning__ by going through a few more courses and applying my knowledge to different projects. Feel free to reach out if you have any questions or need any explanations of the projects. Looking forward to sharing my knowledge with the community.
 
 Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
-
+<h2 align="center">
 <img src = "https://github.com/suhasmaddali/GIF-files/blob/main/giphy.gif" width = "750" />
+</h2>
+<h4 align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+</h4>
 
 
 
