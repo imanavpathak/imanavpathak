@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />
   </a>
    <a href=" https://imanavpathak.github.io"> 
-  <img src="https://github.com/imanavpathak/imanavpathak/blob/main/PORTFOLIO.png" />
+  <img src="https://github.com/imanavpathak/imanavpathak/blob/main/PORTFOLIO.png"width="25" height="25" />
 </a>
 
   </a>
